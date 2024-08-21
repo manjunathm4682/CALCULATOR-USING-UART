@@ -6,6 +6,8 @@ This project demonstrates a basic calculator that uses UART (Universal Asynchron
 Implement a simple calculator that processes arithmetic commands received via UART and displays results in the Keil uVision debug window.
 Operations Supported: Addition, subtraction, multiplication, and division.
 
-**Example Commands **:
+**Example Commands**:
+
 Command: 5 + 3
+
 Expected Output: 8 (displayed in the debug window)
