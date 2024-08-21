@@ -9,7 +9,7 @@ int main()
 {
 	char a[50];
 	int result;
-	uart0_init(9600);
+	uart0_init(9600);															//UART initialization
 	while(1)
 	{
 			uart0_tx_string("Enter the expression\r\n");
